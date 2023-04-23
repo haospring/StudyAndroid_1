@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "My Application"
 include ':chapter_01'
 include ':chapter_01:testrecyclerview'
+include ':chapter_07'
+include ':chapter_07:testeventbus'

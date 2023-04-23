@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test EventBus</string>
+    <string name="register_event_bus">注册事件总线</string>
+    <string name="unregister_event_bus">解除事件总线注册</string>
+    <string name="intent_to_another_activity">跳转到第二个页面</string>
+    <string name="public_event">发布事件</string>
+    <string name="public_sticky_event">发布黏性事件</string>
+</resources>
